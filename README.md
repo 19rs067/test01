@@ -26,7 +26,7 @@ Marking *Unordered* list is very easy.
 You can jump to [GitHub](http://github.com) easily.
 
 ## Section 5
-This is also easy.
+Table is also easy.
 
 |Team  |Win |Lose |Draw |
 |------|---:|----:|----:|
